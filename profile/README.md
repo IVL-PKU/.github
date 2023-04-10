@@ -10,5 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-This is the official account of **Immersive Vision Lab** of Peking University.<br>
+This is the official account of **Immersive Vision Lab** of Peking University（北京大学沉浸影像实验室）.
+
 click [https://ivl-pku.github.io](https://ivl-pku.github.io) for more information.
